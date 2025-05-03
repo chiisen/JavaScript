@@ -15,4 +15,5 @@ terminal.integrated.defaultProfile
 `PowerShell` 是 `PowerShell 7.5.1`  
 
 [undefined vs null](./docs/undefined_vs_null.md)
-
+[object Reference Assignment](./docs/objectReferenceAssignment.md)
+[用 get/set 控制網頁 session](./docs/session.md)
