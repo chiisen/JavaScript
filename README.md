@@ -79,7 +79,7 @@ null === undefined // false
 [用 get/set 控制網頁 session(程式碼)](./src/session.js)  
 
 ## 排序
-```
+```javascript
 var arr = [32,9,46,81,20,69];
 var sort_arr= arr.sort(function(a, b){ return a - b; });
 console.log(sort_arr); // [9, 20, 32, 46, 69, 81]
